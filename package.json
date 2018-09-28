@@ -1,0 +1,19 @@
+{
+  "name": "myfirstapp",
+  "version": "1.0.0",
+  "description": "my first node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suriyakumarracc/first-node-app.git"
+  },
+  "author": "Suriya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suriyakumarracc/first-node-app/issues"
+  },
+  "homepage": "https://github.com/suriyakumarracc/first-node-app#readme"
+}
